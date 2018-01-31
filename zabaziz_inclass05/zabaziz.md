@@ -10,7 +10,7 @@ The informal term "big cat" is typically used to refer to any of the four larges
 
 Despite enormous differences in size, various species of cat are quite similar in both structure and behaviour. All cats are carnivores and efficient apex predators. Their range includes the Americas, Africa, Asia, and Europe.
 
-[![Tigers](media/tiger.jpg)]
+![Tigers](media/tiger.jpg)
 
 ## Tigers
 
@@ -30,7 +30,7 @@ The word specific name tigris derives from the Classical Greek language τίγρ
 * Indochinese Tiger
 * Malaysan Tiger
 
-[![Lions](media/lion.jpg)]
+![Lions](media/lion.jpg)
 
 ## Lions
 
@@ -47,7 +47,7 @@ The lion's name, similar in many Romance languages, is derived from the Latin le
 * West African Lion
 * East African Lion
 
-[![Jaguar](media/jaguar.jpg)]
+![Jaguar](media/jaguar.jpg)
 
 ## Jaguars
 
