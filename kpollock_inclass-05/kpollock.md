@@ -1,15 +1,15 @@
-#Luxury Automobile Marques
+# Luxury Automobile Marques
 Kyle Pollock 
 
 in-class exercise 05
 
 January 31, 2018
 
-##Relationship
+## Relationship
 All of these brands are luxury automakers.
 
 
-##Aston Martin
+## Aston Martin
 
 ![alt text][aston]
 
@@ -19,17 +19,17 @@ All of these brands are luxury automakers.
 
 Their headquarters and the main production site are in Gaydon, Warwickshire, England, alongside one of Jaguar Land Rover's development centres on the site of a former RAF V Bomber airbase. One of Aston Martin's recent cars was named after the 1950s Vulcan Bomber. Aston Martin has diversified to speed boats, submarines, bicycles, clothing and real estate development.
 
-###History
+### History
 
 Aston Martin had a troubled history after the third quarter of the 20th century but has also enjoyed long periods of success and stability. “In the first century we went bankrupt seven times”, incoming CEO Andy Palmer told Automotive News Europe. “The second century is about making sure that is not the case.” On the back of strong demand for Aston Martin’s DB11, its first all-new model in a decade, the company swung back to a profit in the first quarter of 2017.
 
-####Founding
+#### Founding
 
 Aston Martin was founded in 1913 by Lionel Martin and Robert Bamford. The two had joined forces as Bamford & Martin the previous year to sell cars made by Singer from premises in Callow Street, London where they also serviced GWK and Calthorpe vehicles. Martin raced specials at Aston Hill near Aston Clinton, and the pair decided to make their own vehicles. The first car to be named Aston Martin was created by Martin by fitting a four-cylinder Coventry-Simplex engine to the chassis of a 1908 Isotta Fraschini.
 
 They acquired premises at Henniker Mews[22] in Kensington and produced their first car in March 1915. Production could not start because of the outbreak of World War I, and Martin joined the Admiralty and Bamford the Royal Army Service Corps. All machinery was sold to the Sopwith Aviation Company.
 
-##Lexus
+## Lexus
 
 ![alt text][lexus]
 
@@ -43,9 +43,9 @@ Lexus vehicles are largely produced in Japan, with manufacturing centered in the
 
 Since the 2000s, Lexus has increased sales outside its largest market, the United States. The division inaugurated dealerships in the Japanese domestic market in 2005, becoming the first Japanese premium car marque to launch in its country of origin.[3] The brand was introduced in Southeast Asia, Latin America, Europe and other regions. The division's lineup also reflects regional differences for model and powertrain configurations.
 
-###History
+### History
 
-####Launch
+#### Launch
 
 The F1 project was completed in 1989, involving 60 designers, 24 engineering teams, 1,400 engineers, 2,300 technicians, 220 support workers, approximately 450 prototypes and more than $1 billion in costs.[26] The resulting car, the Lexus LS 400, had a design that shared no major elements with previous Toyota vehicles, with a new 4.0 L V8 gasoline engine and rear-wheel drive. The car debuted in January 1989 at the North American International Auto Show in Detroit and sales of the vehicle began the following September at a network of 81 new Lexus dealerships in the U.S. The LS 400 was sold along with the smaller ES 250, a rebadged version of the Japanese market Toyota Camry Prominent/Toyota Vista. The launch of Lexus was accompanied by a multimillion-dollar advertising campaign.
 
@@ -58,7 +58,7 @@ In December 1989, Lexus initiated a voluntary recall of all 8,000 LS 400s based 
 By the end of 1989, a total of 16,392 LS 400 and ES 250 sedans were sold in the four months following the U.S. launch. Although sales had begun at a slower pace than expected, the final tally matched the division's target of 16,000 units for that year. Following initial models, plans called for the addition of a sports coupe along with a redesigned ES sedan.
 
 
-##Mercedes
+## Mercedes
 
 ![alt text][mercedes]
 
@@ -68,7 +68,7 @@ By the end of 1989, a total of 16,392 LS 400 and ES 250 sedans were sold in the 
 
 Mercedes-Benz traces its origins to Daimler-Motoren-Gesellschaft's 1901 Mercedes and Karl Benz's 1886 Benz Patent-Motorwagen, which is widely regarded as the first gasoline-powered automobile. The slogan for the brand is "the best or nothing".
 
-###History
+### History
 
 Mercedes-Benz traces its origins to Karl Benz's creation of the first petrol-powered car, the Benz Patent Motorwagen, financed by Bertha Benz and patented in January 1886, and Gottlieb Daimler and engineer Wilhelm Maybach's conversion of a stagecoach by the addition of a petrol engine later that year. The Mercedes automobile was first marketed in 1901 by Daimler-Motoren-Gesellschaft (Daimler Motors Corporation).
 
