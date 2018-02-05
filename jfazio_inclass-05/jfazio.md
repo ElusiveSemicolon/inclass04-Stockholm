@@ -9,7 +9,7 @@ February 5, 2018
 The elments of this markdown file, Alex Rodriguez, Aaron Judge, and Bryce Harper are all past or present MLB players who excelled in their career performance.
 
 
-## Aston Martin
+## Alex Rodriguez
 
 ![alt text][arod]
 
